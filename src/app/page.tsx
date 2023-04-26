@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   function categoryHandler() {
     console.log("Olá")
   }
- 
+
   return (
     <div className="h-screen flex flex-row bg-zinc-100">
       <aside className="flex flex-col items-center w-60">
